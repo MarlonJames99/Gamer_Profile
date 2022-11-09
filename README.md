@@ -8,7 +8,7 @@ This is a webpage where you can share your gamer profile. Here you can share you
 
 This project was made through the event "Next Level Week - eSports", more specifically the "Explorer" trail, presented by Rocketseat in September 2022.
 
-### App link: https://marlonjames99.github.io/Gamer_Profile/
+### App link: https://gamer-profile-marlonjames99.vercel.app/
 
 #### Project in Figma: https://www.figma.com/file/gjd8JUmrWO8sIYSiqnKBeq/NLW-eSports-(Community)?node-id=307%3A1884
 
